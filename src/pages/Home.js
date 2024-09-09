@@ -18,7 +18,6 @@ const Home = () => {
           <ProductCard />
           <ProductCard />
           <ProductCard />
-          <ProductCard />
         </div>
       </div>
       <Footer />
