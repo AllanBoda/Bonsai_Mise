@@ -1,0 +1,12 @@
+.main-content {
+    display: flex;
+  }
+  
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex: 1;
+    padding: 20px;
+  }
+  
